@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/CorrectorHUN/great-war/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Great War was a bloody, horrible war, with countless new ways of killing, but the despite these changes, heroism didn't disappear, it even showed us our huge capability to accomodate. Let's read the forgotten stories, and be proud of our heroes together!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CorrectorHUN/great-war/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Have something for us?
+Most of the stories would have disappeared without the newspapers and other publishers, and some of them are still out there, waiting to be discovered and passed on. If you have a story your old great grandpa told you, or you found it in an old newspaper, send it to us via e-mail: storiesgreatwar@gmail.com
